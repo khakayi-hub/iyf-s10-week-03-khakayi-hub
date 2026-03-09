@@ -45,6 +45,6 @@ Terminal commands are text instructions you type into a command-line interface (
 ![Screenshot description]("C:\Users\DELL\Pictures\Screenshots\Screenshot 2026-03-09 121845.png")
 
 ## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](https://github.com/khakayi-hub/iyf-s10-week-03-khakayi-hub.git)
 
 Add commit
