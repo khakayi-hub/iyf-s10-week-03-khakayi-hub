@@ -2,7 +2,7 @@
 
 ## Author
 - **Name:** Mitchelle Khakayi.
-- **GitHub:** [@khakayi-hub](https://github.com/khakayi-hub/iyf-s10-week-03-khakayi-hub.git)
+- **GitHub:** [@khakayi-hub](https://github.com/khakayi-hub)
 - **Date:** March 07, 2026
 
 ## Project Description
